@@ -1,0 +1,11 @@
+IDE
+https://uiflow2.m5stack.com/
+
+M5burner
+https://docs.m5stack.com/en/download
+
+ASR blocks
+https://uiflow-micropython.readthedocs.io/en/2.4.5/unit/asr.html#unit.asr.ASRUnit
+
+ASR commands
+https://m5stack-doc.oss-cn-shenzhen.aliyuncs.com/1190/Module_ASR_Command.pdf
